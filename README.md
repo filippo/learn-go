@@ -1,4 +1,4 @@
-GO tests and excersises following the book:
+GO tests and exercises following the book:
 
 **"The GO Programming Language"** \
 by Donovan & Kernighan \
